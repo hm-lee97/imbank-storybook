@@ -1,0 +1,10 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-highcontrast {
+  --gradient-white: linear-gradient(90deg, rgba(var(--color-alpha-base25), 0.25) 25%, rgba(var(--color-alpha-base100), 1) 100%);
+  --gradient-secondary: linear-gradient(90deg, rgba(var(--color-alpha-base0), 0) 25%, rgba(var(--color-surface-secondary-subtler), 1) 100%);
+  --gradient-gray: linear-gradient(90deg, rgba(var(--color-alpha-base0), 0) 25%, rgba(var(--color-surface-gray-subtler), 1) 100%);
+}

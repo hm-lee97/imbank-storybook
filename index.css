@@ -1,0 +1,15 @@
+/* Base tokens */
+@import "./base/string.css";
+@import "./base/dimension.css";
+@import "./base/color.css";
+@import "./base/typography.css";
+@import "./base/shadow.css";
+@import "./base/gradient.css";
+
+/* Theme: Highcontrast */
+@import "./highcontrast/string.css";
+@import "./highcontrast/dimension.css";
+@import "./highcontrast/color.css";
+@import "./highcontrast/typography.css";
+@import "./highcontrast/shadow.css";
+@import "./highcontrast/gradient.css";

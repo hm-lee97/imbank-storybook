@@ -1,0 +1,38 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-highcontrast {
+  --typography-display-medium: var(--string-typo-font-weight-bold) var(--dimension-font-size-display-medium)/150% var(--string-typo-font-type);
+  --typography-body-small: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-small)/150% var(--string-typo-font-type);
+  --typography-heading-xlarge: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-xlarge)/150% var(--string-typo-font-type);
+  --typography-heading-large: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-large)/150% var(--string-typo-font-type);
+  --typography-heading-medium: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-medium)/150% var(--string-typo-font-type);
+  --typography-heading-small: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-small)/150% var(--string-typo-font-type);
+  --typography-heading-xsmall: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-xsmall)/150% var(--string-typo-font-type);
+  --typography-heading-xxsmall: var(--string-typo-font-weight-bold) var(--dimension-font-size-heading-xxsmall)/150% var(--string-typo-font-type);
+  --typography-body-small-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-body-small)/150% var(--string-typo-font-type);
+  --typography-body-medium: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-medium)/150% var(--string-typo-font-type);
+  --typography-body-large: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-large)/150% var(--string-typo-font-type);
+  --typography-body-large-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-body-large)/150% var(--string-typo-font-type);
+  --typography-body-medium-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-body-medium)/150% var(--string-typo-font-type);
+  --typography-label-large: var(--string-typo-font-weight-regular) var(--dimension-font-size-label-large)/150% var(--string-typo-font-type);
+  --typography-label-medium: var(--string-typo-font-weight-regular) var(--dimension-font-size-label-medium)/150% var(--string-typo-font-type);
+  --typography-label-small: var(--string-typo-font-weight-regular) var(--dimension-font-size-label-small)/150% var(--string-typo-font-type);
+  --typography-display-large: var(--string-typo-font-weight-bold) var(--dimension-font-size-display-large)/150% var(--string-typo-font-type);
+  --typography-display-small: var(--string-typo-font-weight-bold) var(--dimension-font-size-display-small)/150% var(--string-typo-font-type);
+  --typography-body-xsmall: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-xsmall)/150% var(--string-typo-font-type);
+  --typography-label-xsmall: var(--string-typo-font-weight-regular) var(--dimension-font-size-label-xsmall)/150% var(--string-typo-font-type);
+  --typography-navigation-title-medium: var(--string-typo-font-weight-bold) var(--dimension-font-size-navigation-title-medium)/150% var(--string-typo-font-type);
+  --typography-navigation-title-small: var(--string-typo-font-weight-bold) var(--dimension-font-size-navigation-title-small)/150% var(--string-typo-font-type);
+  --typography-navigation-depth-medium-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-navigation-depth-medium)/150% var(--string-typo-font-type);
+  --typography-navigation-depth-medium: var(--string-typo-font-weight-regular) var(--dimension-font-size-navigation-depth-medium)/150% var(--string-typo-font-type);
+  --typography-navigation-depth-small: var(--string-typo-font-weight-regular) var(--dimension-font-size-navigation-depth-small)/150% var(--string-typo-font-type);
+  --typography-navigation-depth-small-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-navigation-depth-small)/150% var(--string-typo-font-type);
+  --typography-body-xsmall-bold: var(--string-typo-font-weight-bold) var(--dimension-font-size-body-xsmall)/150% var(--string-typo-font-type);
+  --typography-underline-large: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-large)/150% var(--string-typo-font-type);
+  --typography-underline-medium: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-medium)/150% var(--string-typo-font-type);
+  --typography-underline-small: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-small)/150% var(--string-typo-font-type);
+  --typography-underline-xsmall: var(--string-typo-font-weight-regular) var(--dimension-font-size-body-xsmall)/150% var(--string-typo-font-type);
+}

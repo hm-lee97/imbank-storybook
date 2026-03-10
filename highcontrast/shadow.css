@@ -1,0 +1,11 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-highcontrast {
+  --shadow-shadow2: 0px 4px 8px 0px rgba(var(--rgb-color-alpha-shadow2), 0.08), 0px 0px 2px 0px rgba(var(--rgb-color-alpha-shadow1), 0.05);
+  --shadow-shadow3: 0px 8px 16px 0px rgba(var(--rgb-color-alpha-shadow3), 0.12), 0px 0px 2px 0px rgba(var(--rgb-color-alpha-shadow2), 0.08);
+  --shadow-shadow4: 0px 16px 24px 0px rgba(var(--rgb-color-alpha-shadow3), 0.12), 0px 0px 2px 0px rgba(var(--rgb-color-alpha-shadow2), 0.08);
+  --shadow-shadow1: 0px 0px 2px 0px rgba(var(--rgb-color-alpha-shadow1), 0.05), 0px 1px 2px 0px rgba(var(--rgb-color-alpha-shadow1), 0.05);
+}
