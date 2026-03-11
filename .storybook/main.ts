@@ -12,6 +12,10 @@ const config: StorybookConfig = {
     "@storybook/addon-docs",
     "@storybook/addon-onboarding"
   ],
-  "framework": "@storybook/react-vite"
+  "framework": "@storybook/react-vite",
+  "viteFinal": async (config) => {
+    config.base = '/imbank_storybook/';
+    return config;
+  },
 };
 export default config;
