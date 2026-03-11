@@ -9,9 +9,9 @@
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .storybook-button--primary {
-  background-color: var(--color-background-white);
-  color: var(--color-text-primary);
-  border: 1px solid var(--color-text-primary);
+  background-color: var(--color-light-primary-50);
+  color: var(--color-light-gray-0);
+  border: 0;
 }
 .storybook-button--secondary {
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
